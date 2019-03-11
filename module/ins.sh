@@ -1,0 +1,1 @@
+sudo insmod memtrack.ko
